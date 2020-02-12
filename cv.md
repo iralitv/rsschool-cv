@@ -14,7 +14,7 @@ sort out in philosophy, take a selfie with tornado, don't be an asshole_
     * Why: _I want to do things that make my head work, create application with difficult business logic,
      think over tiny details, understand how it works from inside._
 4.  **Skills:**
-    * Programming languages: _HTML(handlebar), CSS(sass, bootstrap, materialUI), jQuery(js)_
+    * Programming languages: _HTML, CSS(sass, bootstrap, materialUI), jQuery(js)_
     * Version control: _GitHub, Bitbucket_
 5.  **Experience:**
     * Work: _Fronted developer in Mifort company - 8 months_ -- [layout of main site](https://mifort.org/)
